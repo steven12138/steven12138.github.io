@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: He Tianyang (Steven) – Homepage
+---
 
-You can use the [editor on GitHub](https://github.com/steven12138/steven12138.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# He Tianyang (Steven) | 何天阳
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi 👋, I'm **Tianyang He (何天阳)**, an undergraduate student in Computer Science at **Tianjin University (TJU)**.  
+I’m broadly interested in:
 
-### Markdown
+- **Machine Learning & Computer Vision**
+- **Robustness under distribution/domain shift**
+- **Continual / test-time adaptation**
+- **Systems & compilers for efficient AI**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I enjoy combining **theory + large-scale experiments + systems implementation**, from adapter-based robust vision models to C/LLVM compilers and OS kernels.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 🔍 Research Interests
 
-- Bulleted
-- List
+- **Robust & adaptive vision**
+  - Continual test-time adaptation (CTTA)
+  - Domain generalization & domain shift robustness
+  - Parameter-efficient adaptation (adapters, LoRA, etc.)
+- **Foundation models & feedback**
+  - MLLM-assisted self-correction / feedback loops
+- **Systems & PL**
+  - Compilers (front-end, IR, optimization)
+  - OS-level support for AI (memory management, scheduling)
+  - High-performance computing on GPU clusters
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/steven12138/steven12138.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
