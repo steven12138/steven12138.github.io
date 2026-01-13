@@ -17,6 +17,15 @@ I enjoy combining **theory + large-scale experiments + systems implementation**,
 
 ---
 
+## Pubications
+- Yuntong Tian, Kang Li, **Tianyang He**, Liang Wan, Pheng-Ann Heng, Wei Feng.  
+  *Dual Domain-attribute Learning Framework with Asynchronous Adapters for Continual Test-time Adaptation*.  
+  **IEEE Transactions on Image Processing (TIP)**, 2026.  
+  DOI: 10.1109/TIP.2025.3648882.  
+  [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11339378/) [[DOI]](https://doi.org/10.1109/TIP.2025.3648882)
+
+---
+
 ## 🔍 Research Interests
 
 - **Robust & adaptive vision**
