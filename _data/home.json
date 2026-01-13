@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "eyebrow": "Computer Science Undergraduate | Tianjin University",
+    "name": "Tianyang He",
+    "name_zh": "何天阳",
+    "intro": "Hi, I'm Tianyang He (Steven). I work across machine learning, computer vision, and systems, with a focus on robustness under distribution shift and efficient adaptation.",
+    "actions": [
+      {
+        "label": "View Publications",
+        "href": "#publications",
+        "style": "primary"
+      },
+      {
+        "label": "Research Interests",
+        "href": "#research",
+        "style": "ghost"
+      }
+    ],
+    "chips": [
+      "Machine Learning",
+      "Computer Vision",
+      "Robustness",
+      "Continual Adaptation",
+      "Compilers"
+    ]
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "What I focus on day-to-day.",
+    "icon": "👋",
+    "items": [
+      {
+        "title": "Core Focus",
+        "icon": "🎯",
+        "body": "I explore robust and adaptive vision models, especially continual test-time adaptation, domain shift robustness, and parameter-efficient tuning."
+      },
+      {
+        "title": "Working Style",
+        "icon": "🧪",
+        "body": "I enjoy combining theory, large-scale experiments, and systems implementation, from adapter-based vision models to C/LLVM compilers and OS kernels."
+      }
+    ]
+  },
+  "publications": {
+    "title": "Publications",
+    "subtitle": "Selected work",
+    "icon": "📚",
+    "items": [
+      {
+        "venue": "IEEE Transactions on Image Processing (TIP)",
+        "year": "2026",
+        "title": "Dual Domain-attribute Learning Framework with Asynchronous Adapters for Continual Test-time Adaptation",
+        "authors": "Yuntong Tian, Kang Li, Tianyang He, Liang Wan, Pheng-Ann Heng, Wei Feng.",
+        "doi": "10.1109/TIP.2025.3648882",
+        "links": [
+          {
+            "label": "IEEE Xplore",
+            "url": "https://ieeexplore.ieee.org/document/11339378/"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1109/TIP.2025.3648882"
+          }
+        ]
+      }
+    ]
+  },
+  "research": {
+    "title": "Research Interests",
+    "subtitle": "Current directions",
+    "icon": "🔬",
+    "items": [
+      {
+        "title": "Robust & Adaptive Vision",
+        "icon": "🧠",
+        "points": [
+          "Continual test-time adaptation (CTTA)",
+          "Domain generalization & distribution shift",
+          "Adapter-based and LoRA-style tuning"
+        ]
+      },
+      {
+        "title": "Foundation Models & Feedback",
+        "icon": "🧩",
+        "points": [
+          "MLLM-assisted self-correction loops",
+          "Reliable feedback and verification"
+        ]
+      },
+      {
+        "title": "Systems & Programming Languages",
+        "icon": "⚙️",
+        "points": [
+          "Compilers: front-end, IR, optimization",
+          "OS-level support for AI workloads",
+          "GPU cluster performance engineering"
+        ]
+      }
+    ]
+  }
+}
