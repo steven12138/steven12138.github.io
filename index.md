@@ -3,7 +3,7 @@ layout: default
 title: He Tianyang (Steven) – Homepage
 ---
 
-# He Tianyang (Steven) | 何天阳
+# Tianyang He | 何天阳
 
 Hi 👋, I'm **Tianyang He (何天阳)**, an undergraduate student in Computer Science at **Tianjin University (TJU)**.  
 I’m broadly interested in:
